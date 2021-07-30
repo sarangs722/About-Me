@@ -1,5 +1,4 @@
 # About-Me
-**Sarang Srivastava**
 <h1 align="center">Hi 👋, I'm Sarang Srivastava</h1>
 <h3 align="center">A Hardworking & passionate programmer currently pursuing BTech in Information Technology.</h3>
 
