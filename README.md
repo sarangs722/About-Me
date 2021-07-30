@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Sarang Srivastava</h1>
 <h3 align="center">A Hardworking & passionate programmer currently pursuing BTech in Information Technology.</h3>
 
-- 🔭 I’m currently working on **Android Developing**
+- 🔭 I’m currently learning **Android Development (Kotlin)**
 
-- 🌱 I’m currently learning **Kotlin**
+- 🌱 My areas of interest include *Competetive Programming, Android Development, Cybersecurity & Web Development*.
 
 - 👨‍💻 All of my projects are available at [https://sarangs722.github.io/portfoliosite/](https://sarangs722.github.io/portfoliosite/)
 
