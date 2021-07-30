@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently learning **Android Development (Kotlin)**
 
-- 🌱 My areas of interest include *Competetive Programming, Android Development, Cybersecurity & Web Development*.
+- 🌱 My areas of interest include *Competitive Programming, Android Development, Cybersecurity & Web Development*.
 
 - 👨‍💻 All of my projects are available at [https://sarangs722.github.io/portfoliosite/](https://sarangs722.github.io/portfoliosite/)
 
