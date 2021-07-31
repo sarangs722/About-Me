@@ -6,7 +6,7 @@
 
 - 🌱 My areas of interest include *Competitive Programming, Android Development, Cybersecurity & Web Development*.
 
-- 👨‍💻 All of my projects are available at [https://sarangs722.github.io/portfoliosite/](https://sarangs722.github.io/portfoliosite/)
+- 👨‍💻 Check out my Portfolio website at [https://sarangs722.github.io/portfoliosite/](https://sarangs722.github.io/portfoliosite/)
 
 - 📫 How to reach me **sarangs722@gmail.com**
 
