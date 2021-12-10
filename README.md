@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Sarang Srivastava</h1>
 <h3 align="center">A Hardworking & passionate programmer currently pursuing BTech in Information Technology.</h3>
 
-- 🔭 I’m currently learning **Android Development (Kotlin)**
+- 🔭 I’m currently learning **Core Java**
 
 - 🌱 My areas of interest include *Competitive Programming, Android Development, Cybersecurity & Web Development*.
 
