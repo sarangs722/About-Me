@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Sarang Srivastava</h1>
 <h3 align="center">A Hardworking & passionate programmer currently pursuing BTech in Information Technology.</h3>
 
-- 🔭 I’m currently learning **Java**
+- 🔭 Skilled in C++ & Java Programming Languages.
 
-- 🌱 My areas of interest include *Competitive Programming, Android Development, Cybersecurity & Web Development*.
+- 🌱 My areas of interest include *Android Development, Cybersecurity & Web Development*.
 
 - 👨‍💻 Check out my Portfolio website at [https://sarangs722.github.io/portfoliosite/](https://sarangs722.github.io/portfoliosite/)
 
