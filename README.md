@@ -4,7 +4,7 @@
 
 - 🔭 Skilled in C++ & Java Programming Languages.
 
-- 🌱 My areas of interest include *Android Development, Cybersecurity & Web Development*.
+- 🌱 My areas of interest include *Android Development, Web Development & Cybersecurity*.
 
 - 👨‍💻 Check out my Portfolio website at [https://sarangportfolio.herokuapp.com/](https://sarangportfolio.herokuapp.com/)
 
