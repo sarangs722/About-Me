@@ -6,7 +6,7 @@
 
 - 🌱 My areas of interest include *Android Development, Web Development & Cybersecurity*.
 
-- 👨‍💻 Check out my Portfolio website at [https://sarangportfolio.herokuapp.com/](https://sarangportfolio.herokuapp.com/)
+- 👨‍💻 Check out my Portfolio website at https://sarangportfolio.netlify.app/
 
 - 📫 How to reach me **sarangs722@gmail.com**
 
