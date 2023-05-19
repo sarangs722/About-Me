@@ -4,7 +4,7 @@
 
 - 🔭 Skilled in Java, JavaScript & C++ Programming Languages.
 
-- 🌱 My areas of interest include *Android Development, Web Development & Cybersecurity*.
+- 🌱 My areas of interest include *Android Development, Web Development & Augmented Reality*.
 
 - 👨‍💻 Check out my Portfolio website at https://sarangportfolio.netlify.app/
 
