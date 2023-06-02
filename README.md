@@ -5,9 +5,9 @@
 
 - 🔨 Personal development experience in **Android Development (Kotlin), Web Development (Full Stack, MERN Stack)**
 
-- 💻 500+ DSA Problems solved on <a href="https://leetcode.com/sarangs722/">Leetcode</a> & 300+ on <a href="https://auth.geeksforgeeks.org/user/sarangs722">GeeksForGeeks</a>
+- 💻 500+ DSA Problems solved on <a href="https://leetcode.com/sarangs722/" target="_blank">Leetcode</a> & 300+ on <a href="https://auth.geeksforgeeks.org/user/sarangs722">GeeksForGeeks</a>
 
-- 👨‍💻 Check out my portfolio profile at <a href="https://sarangportfolio.netlify.app/">Sarang Portfolio</a>
+- 👨‍💻 Check out my portfolio profile at <a href="https://sarangportfolio.netlify.app/" target="_blank">Sarang Portfolio</a>
 
 - 🔭 My areas of interest include **Android Development, Web Development & Augmented Reality.**
 
