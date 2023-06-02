@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://sarangportfolio.netlify.app/](https://sarangportfolio.netlify.app/)
 
-- 🔭 My areas of interest include **My areas of interest include Android Development, Web Development & Augmented Reality.**
+- 🔭 My areas of interest include **Android Development, Web Development & Augmented Reality.**
 
 - 📫 How to reach me **sarangs722@gmail.com**
 
