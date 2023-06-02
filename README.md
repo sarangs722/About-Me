@@ -3,13 +3,15 @@
 
 - 🌱 I’m currently learning **Jetpack Compose (Android)**
 
-- 👨‍💻 All of my projects are available at [https://sarangportfolio.netlify.app/](https://sarangportfolio.netlify.app/)
+- 👨‍💻 Check out my profile at [https://sarangportfolio.netlify.app/](https://sarangportfolio.netlify.app/)
 
 - 🔭 My areas of interest include **Android Development, Web Development & Augmented Reality.**
 
-- 📫 How to reach me **sarangs722@gmail.com**
+- 📫 You can reach me at **sarangs722@gmail.com**
 
-- ⚡ Skilled in **Skilled in Java, JavaScript & Kotlin Programming Languages.**
+- ⚡ Skilled in **Java, JavaScript & Kotlin Programming Languages.**
+
+- 🔨 Personal development experience in **Android Development (Kotlin), Web Development (Full Stack, MERN Stack)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
