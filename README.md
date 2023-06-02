@@ -35,37 +35,31 @@
 
 <div>
 
-#### QR + Facial Recognition Full stack application (Android + Web). <br>
+#### <a href="https://github.com/sarangs722/QRCode-FacialRecog-Attendance-System" target="blank">QR + Facial Recognition Full stack application (Android + Web).</a> <br>
   ###### Dynamically changes QR codes every 10 seconds to combat fraud.
-<a href="https://github.com/sarangs722/QRCode-FacialRecog-Attendance-System" target="blank">
+
   <p float="left">
   <img align="center" src="https://github.com/sarangs722/sarangs722/assets/51827238/3ade6e28-edae-4cb8-8be0-1852e89eb4c7" alt="QRCode FacialRecog Project" width="50%" /> &nbsp; &nbsp; &nbsp;
   <img align="center" src="https://github.com/sarangs722/sarangs722/assets/51827238/2f3ce2be-0d09-4c92-b887-1003dfc81c30" alt="QRCode FacialRecog Project1" height="400px" />
-  </a>
 
 
   
-#### Portfolio created in React.js
-<a href="https://github.com/sarangs722/portfolio-react" target="blank">
-  <img align="center" src="https://github.com/sarangs722/portfolio-react/assets/51827238/1ee348b6-0e6c-4d9b-b569-957ee546468a" alt="React Portfolio Project" height="400px" /></a>
+#### <a href="https://github.com/sarangs722/portfolio-react" target="blank">Portfolio created in React.js</a>
+  <img align="center" src="https://github.com/sarangs722/portfolio-react/assets/51827238/1ee348b6-0e6c-4d9b-b569-957ee546468a" alt="React Portfolio Project" height="400px" />
   
-#### Unscramble words android application built with Kotlin and Jetpack Compose.
-<a href="https://github.com/sarangs722/Unscramble-Words-App---Kotlin" target="blank">
-  <img align="center" src="https://user-images.githubusercontent.com/51827238/187078173-a54eecc7-4fc7-4c70-b639-db9f77c1d7cc.gif" height="400px" /></a>
+#### <a href="https://github.com/sarangs722/Unscramble-Words-App---Kotlin" target="blank">Unscramble words android application built with Kotlin and Jetpack Compose.</a>
+  <img align="center" src="https://user-images.githubusercontent.com/51827238/187078173-a54eecc7-4fc7-4c70-b639-db9f77c1d7cc.gif" height="400px" />
   
-#### Download Manager Desktop GUI Application in Core Java & Swing
-<a href="https://github.com/sarangs722/Download-Manager-Core-Java-Swing" target="blank">
-  <img align="center" src="https://user-images.githubusercontent.com/51827238/144786157-313e9d6b-c331-4b89-a5cf-02ed57ca7871.png" width="40%" /></a>
+#### <a href="https://github.com/sarangs722/Download-Manager-Core-Java-Swing" target="blank">Download Manager Desktop GUI Application in Core Java & Swing</a>
+  <img align="center" src="https://user-images.githubusercontent.com/51827238/144786157-313e9d6b-c331-4b89-a5cf-02ed57ca7871.png" width="40%" /><
 
-#### Amusement Park prototype Network Design in Cisco Packet Tracer 
-<a href="https://github.com/sarangs722/Amusement-Park-Network-Design" target="blank">
-  <img align="center" src="https://user-images.githubusercontent.com/51827238/127672167-d2d0a47e-1e2e-450e-8ebc-4f42efccd2aa.png" width="40%" /></a>
+#### <a href="https://github.com/sarangs722/Amusement-Park-Network-Design" target="blank">Amusement Park prototype Network Design in Cisco Packet Tracer</a>
+  <img align="center" src="https://user-images.githubusercontent.com/51827238/127672167-d2d0a47e-1e2e-450e-8ebc-4f42efccd2aa.png" width="40%" />
   
   
-#### News Api Web application
+#### <a href="https://github.com/sarangs722/NewsApiWebApp" target="blank">News Api Web application</a>
   ###### Using EJS as a template engine to provide dynamic functionality.
-<a href="https://github.com/sarangs722/NewsApiWebApp" target="blank">
-  <img align="center" src="https://github.com/sarangs722/NewsApiWebApp/blob/main/newsapiwebappworking.gif" width="40%" /></a>  
+  <img align="center" src="https://github.com/sarangs722/NewsApiWebApp/blob/main/newsapiwebappworking.gif" width="40%" />
 
   
 </div>
