@@ -34,7 +34,11 @@
 ##### QR + Facial Recognition Full stack application (Android + Web). <br>
   ###### Dynamically changes QR codes every 10 seconds to combat fraud.
 <a href="https://github.com/sarangs722/QRCode-FacialRecog-Attendance-System" target="blank">
-  <img align="center" src="https://github.com/sarangs722/sarangs722/assets/51827238/3ade6e28-edae-4cb8-8be0-1852e89eb4c7" alt="QRCode FacialRecog Project" width="40%" /></a>
+  <p float="left">
+  <img align="center" src="https://github.com/sarangs722/sarangs722/assets/51827238/3ade6e28-edae-4cb8-8be0-1852e89eb4c7" alt="QRCode FacialRecog Project" width="50%" /> &nbsp; &nbsp; &nbsp;
+  <img align="center" src="https://github.com/sarangs722/sarangs722/assets/51827238/2f3ce2be-0d09-4c92-b887-1003dfc81c30" alt="QRCode FacialRecog Project1" height="400px" />
+  </a>
+
 
   
 ##### Portfolio created in React.js
