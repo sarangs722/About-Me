@@ -1,17 +1,21 @@
 <h1 align="center">Hi 👋, I'm Sarang Srivastava</h1>
 <h3 align="center">A Hardworking & passionate programmer currently pursuing BTech in Information Technology.</h3>
 
-- 🌱 I’m currently learning **Jetpack Compose (Android)**
-
-- 👨‍💻 Check out my profile at [https://sarangportfolio.netlify.app/](https://sarangportfolio.netlify.app/)
-
-- 🔭 My areas of interest include **Android Development, Web Development & Augmented Reality.**
-
-- 📫 You can reach me at **sarangs722@gmail.com**
-
 - ⚡ Skilled in **Java, JavaScript & Kotlin Programming Languages.**
 
 - 🔨 Personal development experience in **Android Development (Kotlin), Web Development (Full Stack, MERN Stack)**
+
+- 💻 500+ DSA Problems solved on <a href="https://leetcode.com/sarangs722/">Leetcode</a> & 300+ on <a href="https://auth.geeksforgeeks.org/user/sarangs722">GeeksForGeeks</a>
+
+- 👨‍💻 Check out my portfolio profile at <a href="https://sarangportfolio.netlify.app/">Sarang Portfolio</a>
+
+- 🔭 My areas of interest include **Android Development, Web Development & Augmented Reality.**
+
+- 🌱 I’m currently learning **Jetpack Compose (Android)**
+
+- 📫 You can reach me at **sarangs722@gmail.com**
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
