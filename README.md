@@ -48,10 +48,10 @@
 
   
 #### <a href="https://github.com/sarangs722/portfolio-react" target="blank">Portfolio created in React.js</a>
-  <img align="center" src="https://github.com/sarangs722/portfolio-react/assets/51827238/1ee348b6-0e6c-4d9b-b569-957ee546468a" alt="React Portfolio Project" height= 360px />
+  <img align="center" src="https://github.com/sarangs722/portfolio-react/assets/51827238/1ee348b6-0e6c-4d9b-b569-957ee546468a" alt="React Portfolio Project" height= 500px />
   
 #### <a href="https://github.com/sarangs722/Unscramble-Words-App---Kotlin" target="blank">Unscramble words android application built with Kotlin and Jetpack Compose.</a>
-  <img align="center" src="https://user-images.githubusercontent.com/51827238/187078173-a54eecc7-4fc7-4c70-b639-db9f77c1d7cc.gif" height= 360px />
+  <img align="center" src="https://user-images.githubusercontent.com/51827238/187078173-a54eecc7-4fc7-4c70-b639-db9f77c1d7cc.gif" height= 500px />
   
 #### <a href="https://github.com/sarangs722/Download-Manager-Core-Java-Swing" target="blank">Download Manager Desktop GUI Application in Core Java & Swing</a>
   <img align="center" src="https://user-images.githubusercontent.com/51827238/144786157-313e9d6b-c331-4b89-a5cf-02ed57ca7871.png" style="width: 100%;
