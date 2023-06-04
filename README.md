@@ -31,6 +31,8 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
+
+
 ## Check out some of my personal projects -
 
 <div>
@@ -39,7 +41,8 @@
   ###### Dynamically changes QR codes every 10 seconds to combat fraud.
 
   <p float="left">
-  <img align="center" src="https://github.com/sarangs722/sarangs722/assets/51827238/3ade6e28-edae-4cb8-8be0-1852e89eb4c7" alt="QRCode FacialRecog Project" width="50%" /> &nbsp; &nbsp; &nbsp;
+  <img align="center" src="https://github.com/sarangs722/sarangs722/assets/51827238/3ade6e28-edae-4cb8-8be0-1852e89eb4c7" alt="QRCode FacialRecog Project" style="width: 100%;
+  max-width: 400px;" /> &nbsp; &nbsp; &nbsp;
   <img align="center" src="https://github.com/sarangs722/sarangs722/assets/51827238/2f3ce2be-0d09-4c92-b887-1003dfc81c30" alt="QRCode FacialRecog Project1" height="400px" />
 
 
@@ -51,15 +54,18 @@
   <img align="center" src="https://user-images.githubusercontent.com/51827238/187078173-a54eecc7-4fc7-4c70-b639-db9f77c1d7cc.gif" height="400px" />
   
 #### <a href="https://github.com/sarangs722/Download-Manager-Core-Java-Swing" target="blank">Download Manager Desktop GUI Application in Core Java & Swing</a>
-  <img align="center" src="https://user-images.githubusercontent.com/51827238/144786157-313e9d6b-c331-4b89-a5cf-02ed57ca7871.png" width="40%" /><
+  <img align="center" src="https://user-images.githubusercontent.com/51827238/144786157-313e9d6b-c331-4b89-a5cf-02ed57ca7871.png" style="width: 100%;
+  max-width: 400px;" /><
 
 #### <a href="https://github.com/sarangs722/Amusement-Park-Network-Design" target="blank">Amusement Park prototype Network Design in Cisco Packet Tracer</a>
-  <img align="center" src="https://user-images.githubusercontent.com/51827238/127672167-d2d0a47e-1e2e-450e-8ebc-4f42efccd2aa.png" width="40%" />
+  <img align="center" src="https://user-images.githubusercontent.com/51827238/127672167-d2d0a47e-1e2e-450e-8ebc-4f42efccd2aa.png" style="width: 100%;
+  max-width: 400px;" />
   
   
 #### <a href="https://github.com/sarangs722/NewsApiWebApp" target="blank">News Api Web application</a>
   ###### Using EJS as a template engine to provide dynamic functionality.
-  <img align="center" src="https://github.com/sarangs722/NewsApiWebApp/blob/main/newsapiwebappworking.gif" width="40%" />
+  <img align="center" src="https://github.com/sarangs722/NewsApiWebApp/blob/main/newsapiwebappworking.gif" style="width: 100%;
+  max-width: 400px;" />
 
   
 </div>
