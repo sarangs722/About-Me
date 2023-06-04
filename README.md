@@ -43,12 +43,12 @@
   <p float="left">
   <img align="center" src="https://github.com/sarangs722/sarangs722/assets/51827238/3ade6e28-edae-4cb8-8be0-1852e89eb4c7" alt="QRCode FacialRecog Project" style="width: 100%;
   max-width: 400px;" /> <br>
-  <img align="center" src="https://github.com/sarangs722/sarangs722/assets/51827238/2f3ce2be-0d09-4c92-b887-1003dfc81c30" alt="QRCode FacialRecog Project1" height="360px" />
+  <img align="center" src="https://github.com/sarangs722/sarangs722/assets/51827238/2f3ce2be-0d09-4c92-b887-1003dfc81c30" alt="QRCode FacialRecog Project1" style="width: 40%; max-width: 100px;" />
 
 
   
 #### <a href="https://github.com/sarangs722/portfolio-react" target="blank">Portfolio created in React.js</a>
-  <img align="center" src="https://github.com/sarangs722/portfolio-react/assets/51827238/1ee348b6-0e6c-4d9b-b569-957ee546468a" alt="React Portfolio Project" height="400px" />
+  <img align="center" src="https://github.com/sarangs722/portfolio-react/assets/51827238/1ee348b6-0e6c-4d9b-b569-957ee546468a" alt="React Portfolio Project" style="width: 40%; max-width: 100px;" />
   
 #### <a href="https://github.com/sarangs722/Unscramble-Words-App---Kotlin" target="blank">Unscramble words android application built with Kotlin and Jetpack Compose.</a>
   <img align="center" src="https://user-images.githubusercontent.com/51827238/187078173-a54eecc7-4fc7-4c70-b639-db9f77c1d7cc.gif" height="400px" />
